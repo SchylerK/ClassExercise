@@ -21,8 +21,8 @@ public class ClassExercise {
         JOptionPane.showMessageDialog(null, "Schyler");
         JOptionPane.showMessageDialog(null, "Ryan");
         JOptionPane.showMessageDialog(null, "Gustavo");
-        JOptionPane.showMessageDialog(null, "James")
-        JOptionPane.showMessageDialog(null, "Ryan")
+        JOptionPane.showMessageDialog(null, "James");
+        JOptionPane.showMessageDialog(null, "Ryan");
         JOptionPane.showMessageDialog(null, "Simeon");
     }
 }
