@@ -1,6 +1,23 @@
-*.class
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package classexercise;
 
-# Package Files #
-*.jar
-*.war
-*.ear
+//imports
+import javax.swing.*;
+
+/**
+ *
+ * @author 041401065
+ */
+public class ClassExercise {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        //Add your name to the following string please
+        JOptionPane.showMessageDialog(null, "Schyler");
+    }
+}
