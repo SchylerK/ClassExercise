@@ -17,7 +17,7 @@ public class ClassExercise {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //Copy and paste the following line but enter your own name
+        //Copy and paste the following line but enter your own name instead of mine
         JOptionPane.showMessageDialog(null, "Schyler");
     }
 }
