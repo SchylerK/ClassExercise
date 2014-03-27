@@ -19,5 +19,6 @@ public class ClassExercise {
     public static void main(String[] args) {
         //Add your name to the following string please
         JOptionPane.showMessageDialog(null, "Schyler");
-    }
+        JoptionPane.showMessageDialog(null, "James");
+        }
 }
